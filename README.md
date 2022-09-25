@@ -7,4 +7,5 @@ Technologies Used:
 3. Coroutines
 
 
-Project Report: https://docs.google.com/document/d/1PX5cVJMP84TswlBKKSvWAY2oW2cx2BHV/edit?usp=sharing&ouid=101238381551016950378&rtpof=true&sd=true
+Project Report: [SI-61644-1662359022.pdf](https://github.com/smartinternz02/SPSGP-61644-Virtual-Internship---Android-Application-Development-Using-Kotlin/files/9640632/SI-61644-1662359022.pdf)
+
